@@ -24,18 +24,4 @@ Number of Class - 15
 
 Class Names - ['Mask', 'can', 'cellphone', 'electronics', 'gbottle', 'glove', 'metal', 'misc', 'net', 'pbag', 'pbottle', 'plastic', 'rod', 'sunglasses', 'tire']
 
-View less
-Usability
-8.75
-License
-
-Attribution 4.0 International (CC BY 4.0)
-Expected update frequency
-Never
-Tags
-Earth and Nature
-Arts and Entertainment
-Online Communities
-Image
-Object Detection
-Po
+Dataset Link: https://www.kaggle.com/datasets/arnavs19/underwater-plastic-pollution-detection/data
